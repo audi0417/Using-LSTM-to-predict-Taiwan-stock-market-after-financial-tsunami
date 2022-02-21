@@ -16,7 +16,7 @@ Therefore, this study aims to explore the hidden trend of Taiwan stock market af
 
 
 ## 研究方法
--開發語言：Python 3.6 \n
+-開發語言：Python 3.6 <\br>
 -演算法套件：Keras 2.2.0
 
 
