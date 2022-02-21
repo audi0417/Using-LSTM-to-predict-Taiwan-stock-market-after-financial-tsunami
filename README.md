@@ -13,3 +13,12 @@
 
 The stock price index, which is regarded as one of the leading indicators, is easily affected by many factors, including company operations, capital flows, market news, international trends and even psychological expectations, and the occurrence of the financial crisis has increased the correlation between stock markets in various countries. The use of artificial intelligence to predict the stock market has become a major direction in the development of financial technology.
 Therefore, this study aims to explore the hidden trend of Taiwan stock market after the 2007-2008 financial tsunami by using LSTM. We analyze the dynamic factors and mutual causality of the stock market that cannot be easily handled by human, analyze the deferred effect and the degree of influence of the weighted stock price index of Taiwan stock issuance, and evaluate the performance of the prediction model by using root mean square error to compare with artificial neural network. The RMSE is used to compare the prediction accuracy with the past artificial neural network, to improve the prediction accuracy, investor performance and profitability, and as a reference for investors to diversify risk.
+
+
+###開發語言
+Python 3.6
+###演算法套件
+Keras 2.2.0
+
+
+
