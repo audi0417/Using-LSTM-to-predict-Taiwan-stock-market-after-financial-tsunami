@@ -14,18 +14,33 @@
 The stock price index, which is regarded as one of the leading indicators, is easily affected by many factors, including company operations, capital flows, market news, international trends and even psychological expectations, and the occurrence of the financial crisis has increased the correlation between stock markets in various countries. The use of artificial intelligence to predict the stock market has become a major direction in the development of financial technology.
 Therefore, this study aims to explore the hidden trend of Taiwan stock market after the 2007-2008 financial tsunami by using LSTM. We analyze the dynamic factors and mutual causality of the stock market that cannot be easily handled by human, analyze the deferred effect and the degree of influence of the weighted stock price index of Taiwan stock issuance, and evaluate the performance of the prediction model by using root mean square error to compare with artificial neural network. The RMSE is used to compare the prediction accuracy with the past artificial neural network, to improve the prediction accuracy, investor performance and profitability, and as a reference for investors to diversify risk.
 
+## 研究目的
+
+一、透過 LSTM 模型進行金融海嘯後台股加權指數的深度學習與走勢預測
+二、探究不同參數對台股加權指數預測模型的影響，調整並優化出最佳參數 組合
+三、利用人工智慧尋找金融海嘯後台股加權指數之遞延效果及影響程度
+
 
 ## 研究流程
 
-
 ![image](https://github.com/audi0417/Using-LSTM-to-predict-Taiwan-stock-market-after-financial-tsunami/blob/main/photo/%E5%9C%96%E7%89%87%201.png)
+
 
 ## 研究方法
 -開發語言：Python 3.6  
 -演算法套件：Keras 2.2.0
 
+旨在以長短期記憶網路模型(LSTM)建立長期趨勢分析模型進行預測;透過反覆測試、調整並優化模型參數，獲得最佳參數組合，提升 LSTM 預測結果之準確率。最後，分別透過 LSTM 與 ANN 比較我國股市加權指數長期趨勢之模型預測能力
+
+![image](https://github.com/audi0417/Using-LSTM-to-predict-Taiwan-stock-market-after-financial-tsunami/blob/main/photo/1645531533168.jpg)
 
 
+## 研究結果
+
+
+
+
+![image](https://github.com/audi0417/Using-LSTM-to-predict-Taiwan-stock-market-after-financial-tsunami/blob/main/photo/1645531906204.jpg)
 
 
 
