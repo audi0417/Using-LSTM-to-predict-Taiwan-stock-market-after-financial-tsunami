@@ -18,7 +18,7 @@ Therefore, this study aims to explore the hidden trend of Taiwan stock market af
 ## 研究流程
 
 
-![image](Using-LSTM-to-predict-Taiwan-stock-market-after-financial-tsunami/photo/圖片 1.png)
+![image](https://github.com/audi0417/Using-LSTM-to-predict-Taiwan-stock-market-after-financial-tsunami/blob/main/photo/%E5%9C%96%E7%89%87%201.png)
 
 ## 研究方法
 -開發語言：Python 3.6  
